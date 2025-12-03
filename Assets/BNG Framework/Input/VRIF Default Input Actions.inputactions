@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "VRIF Default Input Actions",
     "maps": [
         {
@@ -75,7 +76,7 @@
                     "name": "Grab",
                     "type": "Button",
                     "id": "33754c03-48ec-46ef-9bc6-22ed6bfdd8e8",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -153,19 +154,10 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "Locomotion Mode Toggle",
-                    "type": "Button",
-                    "id": "ecd077af-c63a-41bb-891d-196a89166399",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
                     "name": "Jump",
                     "type": "Button",
                     "id": "dae94c47-3da5-40be-9db6-36a9239b3603",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -183,7 +175,7 @@
                     "name": "Slow Time",
                     "type": "Button",
                     "id": "0a79676f-8968-4656-bfd8-e1605ca62d6a",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -421,39 +413,6 @@
                 },
                 {
                     "name": "",
-                    "id": "e870334b-3dcf-4446-80da-692913c748ee",
-                    "path": "<XRController>{LeftHand}/thumbstickClicked",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Locomotion Mode Toggle",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "73a6d359-40f8-4581-9827-91d1d6b66a4e",
-                    "path": "<Keyboard>/leftShift",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Sprint",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "fa1e2100-b0e0-4e5c-822e-3df406ac00fd",
-                    "path": "<XRController>{LeftHand}/secondaryButton",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Slow Time",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "89b24cb8-9e2a-42a2-bbf3-c106fea6e24e",
                     "path": "<Keyboard>/t",
                     "interactions": "",
@@ -465,11 +424,11 @@
                 },
                 {
                     "name": "",
-                    "id": "583bd4fd-754c-4e71-972b-60d1e120215b",
-                    "path": "<Keyboard>/space",
-                    "interactions": "Press(behavior=2)",
+                    "id": "e870334b-3dcf-4446-80da-692913c748ee",
+                    "path": "<XRController>{LeftHand}/thumbstickClicked",
+                    "interactions": "",
                     "processors": "",
-                    "groups": "",
+                    "groups": "Generic XR Controller",
                     "action": "Jump",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -589,7 +548,7 @@
                     "name": "Teleport Select",
                     "type": "Button",
                     "id": "02e43582-8973-4940-af06-dff6158e3df2",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -875,7 +834,7 @@
                     "name": "Click",
                     "type": "Button",
                     "id": "b313bf22-cfa1-4bf3-bec1-360bbe62e540",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false

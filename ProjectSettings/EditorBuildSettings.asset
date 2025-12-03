@@ -5,27 +5,30 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/BNG Framework/Scenes/Weapons.unity
     guid: 2626939ed08e1ec41bee0433a7f068d9
-  - enabled: 1
+  - enabled: 0
     path: Assets/BNG Framework/Scenes/XR Demo.unity
     guid: a1360534006d3f845bc79b46b93cfec5
-  - enabled: 1
+  - enabled: 0
     path: Assets/BNG Framework/Scenes/Scene Transitioning.unity
     guid: 9d7c9629abf9c99449e358b0938b47d0
-  - enabled: 1
+  - enabled: 0
     path: Assets/BNG Framework/Scenes/Physics Hands.unity
     guid: 34a4579517c578e4080d0a6ef2c96294
-  - enabled: 1
+  - enabled: 0
     path: Assets/BNG Framework/Scenes/Rigidbody Player.unity
     guid: 57fc97c5771a777449aa8bd02514df22
-  - enabled: 1
+  - enabled: 0
     path: Assets/BNG Framework/Scenes/Vehicle Example.unity
     guid: d96233ee44d985d4fb8dc23a907c06eb
-  - enabled: 1
+  - enabled: 0
     path: Assets/BNG Framework/Scenes/Quest Demo.unity
     guid: 20abffae0ea5004438fe0e95b6627841
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8bb7617d6f407bc4b858bdf8d4eeeee2,
       type: 2}

@@ -6734,6 +6734,11 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3416407839948019760, guid: 95fa1fd3c47aafe4ca02325a6550bb9c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6905193030026496912, guid: 95fa1fd3c47aafe4ca02325a6550bb9c,
         type: 3}
       propertyPath: AutoLockCursor
@@ -7088,7 +7093,7 @@ PrefabInstance:
     - target: {fileID: 1817198279551205388, guid: f563d72ff0cfa0e46a286415c8143429,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -47.74
+      value: -49.36
       objectReference: {fileID: 0}
     - target: {fileID: 1817198279551205388, guid: f563d72ff0cfa0e46a286415c8143429,
         type: 3}
@@ -16673,7 +16678,7 @@ Transform:
   m_GameObject: {fileID: 1891126449}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 189.24, y: -49.8, z: -0}
+  m_LocalPosition: {x: 189.24, y: -51.42, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
